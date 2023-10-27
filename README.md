@@ -1,3 +1,5 @@
+## 배포
+https://zentechie-nution.netlify.app/
 # 📌 5주차 프로젝트[Project1]
 
 ## 필수 프로젝트
